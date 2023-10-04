@@ -1,4 +1,5 @@
 # CV Task
+<a href="https://m-sahil-cv1.surge.sh/" target="_blank">visit Live Preview of CV</a>
 
 ### Created by: Muhammad Sahil
 #### Linkedin Account: <a href="https://www.linkedin.com/in/muhammadsahil" target="_blank">Linkedin</a>
@@ -9,7 +10,6 @@
 - Best UI Design
 - Pure CSS3 is Used without used of any third Party Libraries.
 
-<a href="https://m-sahil-cv1.surge.sh/" target="_blank">visit Its Demo</a>
 
 ## Languages Used
 
